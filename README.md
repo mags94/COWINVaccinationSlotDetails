@@ -41,3 +41,5 @@ Slots shown only for the given input (18)
 
 ###### Output:
   <img width="1278" alt="Screenshot 2022-08-15 at 11 08 32 PM" src="https://user-images.githubusercontent.com/26045231/184686655-a47eb95e-f90e-48d0-9a3e-5eb7e203ffb9.png">
+
+##### If the code runs in a scheduled manner. Notification can be sent when a slot gets avaialble.
