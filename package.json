@@ -1,0 +1,22 @@
+{
+  "name": "cowin",
+  "version": "1.0.0",
+  "description": "covid 19 vaccination slot in india",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maha",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "chalk": "^5.0.1",
+    "commander": "^9.4.0",
+    "inquirer": "^8.2.4",
+    "node-notifier": "^10.0.1",
+    "tty-table": "^4.1.6"
+  },
+  "bin": {
+    "cowin": "./bin/index.js"
+  }
+}
